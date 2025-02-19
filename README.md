@@ -16,7 +16,7 @@ Added a new User Interface to the same game logic from the English Checkers Cons
     src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122224.png" 
     alt="Image Description"
     width="326" 
-    height="80"
+    height="100"
     title="Game Starting"
 />   
 <div/>
