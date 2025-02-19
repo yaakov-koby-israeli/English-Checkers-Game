@@ -3,7 +3,7 @@ Added a new User Interface to the same game logic from the English Checkers Cons
 <hr>
 
 <div>
-   ## Game Setting Screen.
+    Game Setting Screen.<br><br>
 <img 
     src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122210.png" 
     alt="Image Description"
