@@ -35,13 +35,13 @@ Added a new User Interface to the same game logic from the English Checkers Cons
     src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122258.png" 
     alt="Image Description"
     width="250" 
-    height="150"
+    height="100"
     title="Invalid Move Error Screen"   
 />   
 <img 
     src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122307.png" 
     alt="Image Description"
-    width="250" 
+    width="100" 
     height="100"
     title="Not You'r Turn Error Screen"   
 />   
