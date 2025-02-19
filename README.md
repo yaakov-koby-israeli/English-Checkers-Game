@@ -47,7 +47,17 @@ Added a new User Interface to the same game logic from the English Checkers Cons
 />   
 <div/>
  
-
+<div>
+   <h2> Game Over !</h2>   
+<img 
+    src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122600.png" 
+    alt="Image Description"
+    width="288" 
+    height="275"
+    title="Game Board"
+/>
+   <h3>koby Win the Game !.</h3>    
+<div/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
