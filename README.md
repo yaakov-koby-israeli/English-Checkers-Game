@@ -1,2 +1,5 @@
 # English-Checkers-Game
-English Checkers (Draughts) Game, developed in C#.NET.
+Added a new user interface to the same game logic from the English Checkers Console Game.
+<hr>
+
+
