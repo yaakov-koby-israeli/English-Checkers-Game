@@ -2,8 +2,7 @@
 Added a new User Interface to the same game logic from the English Checkers Console Game.
 
 <div>
-   <h2> Game Setting Screen.</h2>>
-   
+   <h2> Game Setting Screen.</h2>   
 <img 
     src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122210.png" 
     alt="Image Description"
@@ -12,8 +11,26 @@ Added a new User Interface to the same game logic from the English Checkers Cons
     title="Game Setting"
 />
    <br> Here I chose to play against computer .<br>
+      <h3> Starting Game !</h3>   
+<img 
+    src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122224.png" 
+    alt="Image Description"
+    width="426" 
+    height="175"
+    title="Game Starting"
+/>   
 <div/>
 
+
+   <h3> Game Setting Screen.</h3>   
+<img 
+    src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122210.png" 
+    alt="Image Description"
+    width="188" 
+    height="175"
+    title="Game Setting"
+/>
+   <br> Here I chose to play against computer .<br>
 
 
 ### :hammer_and_wrench: Languages and Tools :
